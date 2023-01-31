@@ -1,0 +1,20 @@
+* {
+    font-size: 12px;
+}
+
+h2, p, h1 {
+    color: pink;
+    font-family: cursive;
+}
+#amir {
+    color: green;
+}
+.dini {
+    color: blue;
+}
+p {
+    color: orange;
+}
+p.dini1 {
+    color: aqua;
+}
