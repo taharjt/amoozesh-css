@@ -1,0 +1,25 @@
+div .p1 {
+    border: 1px solid green;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+div .p2 {
+    border-left-style: dotted;
+    border-left-color: red;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-top-color: blue;
+    border-top-width: 2px;
+    border-right-style: dashed;
+    border-right-color: pink;
+    border-right-width: 1px;
+    border-bottom-style: double;
+    border-bottom-color: brown;
+    border-bottom-width: 2px;
+    
+}
+div .p3 {
+    border-left: 1px solid red;
+    border-right: 2px dotted green;
+    border-top: 1px dashed pink;
+}
