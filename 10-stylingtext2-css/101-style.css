@@ -1,0 +1,15 @@
+.p1 {
+    text-transform: none;
+    word-spacing: 10px;
+}
+.p2 {
+    text-indent: 90px;
+    letter-spacing: 2px;
+    line-height: 35px;
+}
+.p3 {
+    direction: rtl;
+}
+.p4 {
+    text-shadow: 2px 2px 2px #444;
+}
