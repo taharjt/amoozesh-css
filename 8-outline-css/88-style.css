@@ -1,0 +1,5 @@
+div {
+    outline: 1px dotted red;
+    border: 1px solid blue;
+    outline-offset: 3px;
+}

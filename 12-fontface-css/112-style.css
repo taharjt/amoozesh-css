@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'taha';
+	src: url('font/IRANSansWeb_Light.eot') format('eot'),  /* IE6–8 */ url('font/IRANSansWeb_Light.woff2') format('woff2'),  /* Chrome36+, Opera24+*/ url('font/IRANSansWeb_Light.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+@font-face {
+	font-family: 'tahabold';
+	src: url('font/IRANSansWeb_Black.eot') format('eot'),  /* IE6–8 */ url('font/IRANSansWeb_Black.woff2') format('woff2'),  /* Chrome36+, Opera24+*/ url('font/IRANSansWeb_Black.woff') format('woff');  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+p {
+    font-family: 'taha';
+}
+span {
+    font-family: 'tahabold';
+}
